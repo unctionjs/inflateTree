@@ -1,7 +1,7 @@
 {
-  "name": "@unction/{{FQNAME}}",
+  "name": "@unction/inflatetree",
   "version": "1.0.0",
-  "description": "",
+  "description": "Takes a flat record with a specific key pattern and turns it into a nested record",
   "keywords": [
     "unction",
     "functional"
@@ -14,9 +14,9 @@
     }
   ],
   "license": "ISC",
-  "homepage": "https://github.com/unctionjs/{{NAME}}#readme",
-  "repository": "github:unctionjs/{{NAME}}",
-  "bugs": "https://github.com/unctionjs/{{NAME}}/issues",
+  "homepage": "https://github.com/unctionjs/inflateTree#readme",
+  "repository": "github:unctionjs/inflateTree",
+  "bugs": "https://github.com/unctionjs/inflateTree/issues",
   "main": "transpiled/index.js",
   "files": [
     "transpiled/index.js"
@@ -58,5 +58,11 @@
     "nyc": "11.2.1",
     "tap": "10.7.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@unction/fresh": "3.6.0",
+    "@unction/mergedeepright": "2.32.0",
+    "@unction/recordfrom": "2.32.0",
+    "@unction/reducewithvaluekey": "4.32.0",
+    "@unction/split": "1.35.0"
+  }
 }
