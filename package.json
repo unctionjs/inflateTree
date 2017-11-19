@@ -59,7 +59,7 @@
     "tap": "10.7.2"
   },
   "dependencies": {
-    "@unction/fresh": "3.6.0",
+    "@unction/fresh": "3.7.0",
     "@unction/mergedeepright": "2.32.0",
     "@unction/recordfrom": "2.32.0",
     "@unction/reducewithvaluekey": "4.32.0",
