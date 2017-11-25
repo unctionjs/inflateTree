@@ -63,6 +63,6 @@
     "@unction/mergedeepright": "2.46.0",
     "@unction/recordfrom": "2.47.0",
     "@unction/reducewithvaluekey": "5.0.0",
-    "@unction/split": "1.51.0"
+    "@unction/split": "1.52.0"
   }
 }
