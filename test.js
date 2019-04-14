@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-return-type */
-import {test} from "tap"
+import {test} from "tap";
 
-import inflateTree from "./index"
+import inflateTree from "./index";
 
 test(({same, end}) => {
   same(
@@ -25,7 +25,7 @@ test(({same, end}) => {
         location: "http://api.example.com/profiles/24",
       },
     }
-  )
+  );
 
-  end()
-})
+  end();
+});
