@@ -17,7 +17,7 @@
   "homepage": "https://github.com/unctionjs/inflateTree#readme",
   "repository": "github:unctionjs/inflateTree",
   "bugs": "https://github.com/unctionjs/inflateTree/issues",
-  "main": "transpiled/main.js",
+  "main": "main.js",
   "files": [
     "index.js",
     "main.js",
@@ -72,5 +72,5 @@
     "@unction/split": "12.0.0"
   },
   "module": "index.js",
-  "browser": "transpiled/browser.js"
+  "browser": "browser.js"
 }
