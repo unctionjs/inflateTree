@@ -67,7 +67,7 @@
   "dependencies": {
     "@unction/fresh": "8.1.0",
     "@unction/mergedeepright": "10.1.0",
-    "@unction/recordfrom": "9.0.0",
+    "@unction/objectfrom": "1.0.0",
     "@unction/reducewithvaluekey": "11.1.0",
     "@unction/split": "13.1.0"
   },
