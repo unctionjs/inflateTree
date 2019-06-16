@@ -69,8 +69,7 @@
     "@unction/mergedeepright": "10.6.0",
     "@unction/objectfrom": "1.5.0",
     "@unction/reducewithvaluekey": "11.5.0",
-    "@unction/split": "13.6.0",
-    "core-js": "3.0.1"
+    "@unction/split": "13.6.0"
   },
   "module": "module.js",
   "browser": "browser.js"
