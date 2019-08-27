@@ -1,7 +1,7 @@
-/* eslint-disable flowtype/require-return-type */
+
 import {test} from "tap";
 
-import inflateTree from "./index";
+import inflateTree from "./";
 
 test(({same, end}) => {
   same(
