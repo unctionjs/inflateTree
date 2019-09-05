@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> StringType => RecordType => NestedRecordType
+> TextType => RecordType<A, B> => RecordType<A, C>
 
 Takes a flat record with a specific key pattern and turns it into a nested record.
 
