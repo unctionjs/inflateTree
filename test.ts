@@ -1,5 +1,5 @@
 
-import inflateTree from "./index.ts";
+import inflateTree from "./index";
 
 test(() => {
   expect(inflateTree(
