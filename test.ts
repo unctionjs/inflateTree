@@ -1,7 +1,7 @@
 
 import inflateTree from "./index";
 
-test(() => {
+test("works", () => {
   expect(inflateTree(
     "-"
   )(
