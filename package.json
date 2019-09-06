@@ -61,10 +61,10 @@
   },
   "dependencies": {
     "@unction/fresh": "8.6.0",
-    "@unction/mergedeepright": "10.7.0",
-    "@unction/objectfrom": "1.6.0",
-    "@unction/reducewithvaluekey": "11.6.0",
-    "@unction/split": "13.7.0"
+    "@unction/mergedeepright": "10.8.0",
+    "@unction/objectfrom": "1.7.0",
+    "@unction/reducewithvaluekey": "11.7.0",
+    "@unction/split": "13.8.0"
   },
   "module": "module.js",
   "browser": "browser.js",
