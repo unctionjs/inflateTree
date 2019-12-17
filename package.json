@@ -1,6 +1,6 @@
 {
   "name": "@unction/inflatetree",
-  "version": "14.11.0",
+  "version": "14.11.1",
   "description": "Takes a flat record with a specific key pattern and turns it into a nested record",
   "keywords": [
     "unction",
