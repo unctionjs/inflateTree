@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "@unction/fresh": "^8.13.0",
-    "@unction/mergedeepright": "^10.14.0",
+    "@unction/mergedeepright": "^10.15.0",
     "@unction/objectfrom": "^1.13.0",
     "@unction/reducewithvaluekey": "^11.13.0",
     "@unction/split": "^13.14.0"
